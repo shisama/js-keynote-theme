@@ -2,6 +2,7 @@
 keynote theme for JavaScript, React, Angular and Node.js.
 
 # How to use
+1. Download
 ```
 git clone git@github.com:shisama/js-keynote-theme.git
 ```
@@ -10,6 +11,8 @@ or
 git clone https://github.com/shisama/js-keynote-theme.git
 ```
 or [Download Zip](https://github.com/shisama/js-keynote-theme/archive/master.zip)
+
+2. Open JavaScript.kth
 
 # Color Codes
 |theme|background|text|
