@@ -21,3 +21,8 @@ or [Download Zip](https://github.com/shisama/js-keynote-theme/archive/master.zip
 |Non Theme|#FFF5E2|#3E4157|
 
 # Sample
+![JavaScript](sample/JavaScript.png)
+![React](sample/React.png)
+![Angular](sample/Angular.png)
+![Node](sample/Node.png)
+![NonTheme](sample/NonTheme.png)
